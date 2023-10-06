@@ -1,1 +1,352 @@
-
+[
+    {
+        "stateName": "Alabama LLC",
+        "stateFee": "$200",
+        "annualFee": "$50 minimum",
+        "annualFeeDueDate": "2.5 months after formation and annually by April 15",
+        "stateMoreInfo": "AL Department of Revenue, Initial Business Privilege Tax Return"
+    },
+    {
+        "stateName": "Alaska LLC",
+        "stateFee": "$250",
+        "annualFee": "$100",
+        "annualFeeDueDate": "Biennial, January 2",
+        "stateMoreInfo": "AK Department of CCED, Biennial Report"
+    },
+    {
+        "stateName": "Arizona LLC",
+        "stateFee": "$50",
+        "annualFee": "$0",
+        "annualFeeDueDate": "No annual fee + no report due",
+        "stateMoreInfo": "N/A, N/A"
+    },
+    {
+        "stateName": "Arkansas LLC",
+        "stateFee": "$45",
+        "annualFee": "$150",
+        "annualFeeDueDate": "Annual, May 1",
+        "stateMoreInfo": "AR Secretary of State, Franchise Tax Report"
+    },
+    {
+        "stateName": "California LLC",
+        "stateFee": "$70",
+        "annualFee": "$800 + $20",
+        "annualFeeDueDate": "Various",
+        "stateMoreInfo": "CA Franchise Tax Board, Annual LLC Franchise Tax + Stmt. of Information"
+    },
+    {
+        "stateName": "Colorado LLC",
+        "stateFee": "$50",
+        "annualFee": "$10",
+        "annualFeeDueDate": "5 month window surrounding anniversary month",
+        "stateMoreInfo": "CO Secretary of State, Periodic Report"
+    },
+    {
+        "stateName": "Connecticut LLC",
+        "stateFee": "$120",
+        "annualFee": "$80",
+        "annualFeeDueDate": "Annual, March 31",
+        "stateMoreInfo": "CT Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Delaware LLC",
+        "stateFee": "$90",
+        "annualFee": "$300",
+        "annualFeeDueDate": "Annual, June 1",
+        "stateMoreInfo": "DE Dept. of State, Annual Franchise Tax"
+    },
+    {
+        "stateName": "Florida LLC",
+        "stateFee": "$125",
+        "annualFee": "$138.75",
+        "annualFeeDueDate": "Annual, May 1",
+        "stateMoreInfo": "FL Department of State, Annual Report"
+    },
+    {
+        "stateName": "Georgia LLC",
+        "stateFee": "$100",
+        "annualFee": "$50",
+        "annualFeeDueDate": "Annual, April 1",
+        "stateMoreInfo": "GA Secretary of State, Annual Registration Fee"
+    },
+    {
+        "stateName": "Hawaii LLC",
+        "stateFee": "$50",
+        "annualFee": "$15",
+        "annualFeeDueDate": "During quarter of anniversary date",
+        "stateMoreInfo": "HI Business Registration Division, Annual Report"
+    },
+    {
+        "stateName": "Idaho LLC",
+        "stateFee": "$100",
+        "annualFee": "0 (must file an information report, no fee though)",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "ID Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Illinois LLC",
+        "stateFee": "$150",
+        "annualFee": "$75",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "IL Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Indiana LLC",
+        "stateFee": "$95",
+        "annualFee": "$30",
+        "annualFeeDueDate": "Biennial, anniversary month",
+        "stateMoreInfo": "IN Secretary of State, Business Entity Report"
+    },
+    {
+        "stateName": "Iowa LLC",
+        "stateFee": "$50",
+        "annualFee": "$30",
+        "annualFeeDueDate": "Biennial, April 1 of odd years",
+        "stateMoreInfo": "IA Secretary of State, Biennial Report"
+    },
+    {
+        "stateName": "Kansas LLC",
+        "stateFee": "$160",
+        "annualFee": "$50",
+        "annualFeeDueDate": "Annual, April 15",
+        "stateMoreInfo": "KS Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Kentucky LLC",
+        "stateFee": "$40",
+        "annualFee": "$15",
+        "annualFeeDueDate": "Annual, June 30",
+        "stateMoreInfo": "KY Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Louisiana LLC",
+        "stateFee": "$100",
+        "annualFee": "$35",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "LA Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Maine LLC",
+        "stateFee": "$175",
+        "annualFee": "$85",
+        "annualFeeDueDate": "Annual, June 1",
+        "stateMoreInfo": "ME Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Maryland LLC",
+        "stateFee": "$100",
+        "annualFee": "$300",
+        "annualFeeDueDate": "Annual, April 15",
+        "stateMoreInfo": "MD State Department, Personal Property Return"
+    },
+    {
+        "stateName": "Massachusetts LLC",
+        "stateFee": "$500",
+        "annualFee": "$500",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "MA Secretary of Commonwealth, Annual Report"
+    },
+    {
+        "stateName": "Michigan LLC",
+        "stateFee": "$50",
+        "annualFee": "$25",
+        "annualFeeDueDate": "Annual, February 15",
+        "stateMoreInfo": "MI Department of Licensing and Regulatory Affairs, Annual Statement"
+    },
+    {
+        "stateName": "Minnesota LLC",
+        "stateFee": "$135",
+        "annualFee": "$25",
+        "annualFeeDueDate": "Annual, December 31",
+        "stateMoreInfo": "MN Secretary of State, Annual Renewal"
+    },
+    {
+        "stateName": "Mississippi LLC",
+        "stateFee": "$50",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, April 15",
+        "stateMoreInfo": "MS Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Missouri LLC",
+        "stateFee": "$50",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Every 2 years, anniversary month",
+        "stateMoreInfo": "MO Secretary of State, LLC Periodic Report"
+    },
+    {
+        "stateName": "Montana LLC",
+        "stateFee": "$70",
+        "annualFee": "$20",
+        "annualFeeDueDate": "Annual, April 15",
+        "stateMoreInfo": "MT Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Nebraska LLC",
+        "stateFee": "$105",
+        "annualFee": "$10",
+        "annualFeeDueDate": "Biennial, April 1",
+        "stateMoreInfo": "NE Secretary of State, Biennial Report"
+    },
+    {
+        "stateName": "Nevada LLC",
+        "stateFee": "$425",
+        "annualFee": "$350",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "NV Secretary of State, Annual List of Managers or Managing Members"
+    },
+    {
+        "stateName": "New Hampshire LLC",
+        "stateFee": "$100",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, April 1",
+        "stateMoreInfo": "NH Department of State, Annual Report"
+    },
+    {
+        "stateName": "New Jersey LLC",
+        "stateFee": "$125",
+        "annualFee": "$75",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "NJ Division of Revenue & Enterprise Services, Annual Report"
+    },
+    {
+        "stateName": "New Mexico LLC",
+        "stateFee": "$50",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "NM Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "New York LLC",
+        "stateFee": "$200",
+        "annualFee": "$9",
+        "annualFeeDueDate": "Biennial, anniversary month",
+        "stateMoreInfo": "NY Department of State, Biennial Statement"
+    },
+    {
+        "stateName": "North Carolina LLC",
+        "stateFee": "$200",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, April 15",
+        "stateMoreInfo": "NC Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "North Dakota LLC",
+        "stateFee": "$135",
+        "annualFee": "$50",
+        "annualFeeDueDate": "Annual, November 15",
+        "stateMoreInfo": "ND Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Ohio LLC",
+        "stateFee": "$99",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, November 15",
+        "stateMoreInfo": "OH Secretary of State, Biennial Statement of Continued Existence"
+    },
+    {
+        "stateName": "Oklahoma LLC",
+        "stateFee": "$104",
+        "annualFee": "$25",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "OK Secretary of State, Annual Certificate"
+    },
+    {
+        "stateName": "Oregon LLC",
+        "stateFee": "$100",
+        "annualFee": "$100",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "OR Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Pennsylvania LLC",
+        "stateFee": "$125",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Decennial, April 30",
+        "stateMoreInfo": "PA Department of State, Decennial Report"
+    },
+    {
+        "stateName": "Rhode Island LLC",
+        "stateFee": "$150",
+        "annualFee": "$50",
+        "annualFeeDueDate": "Annual, March 1",
+        "stateMoreInfo": "RI Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "South Carolina LLC",
+        "stateFee": "$0",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, April 1",
+        "stateMoreInfo": "SC Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "South Dakota LLC",
+        "stateFee": "$150",
+        "annualFee": "$50",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "SD Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Tennessee LLC",
+        "stateFee": "$300",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "TN Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Texas LLC",
+        "stateFee": "$300",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, May 15",
+        "stateMoreInfo": "TX Comptroller of Public Accounts, Public Information Report"
+    },
+    {
+        "stateName": "Utah LLC",
+        "stateFee": "$70",
+        "annualFee": "$20",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "UT Division of Corporations, Annual Report"
+    },
+    {
+        "stateName": "Vermont LLC",
+        "stateFee": "$125",
+        "annualFee": "$35",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "VT Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Virginia LLC",
+        "stateFee": "$100",
+        "annualFee": "$50",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "VA State Corporation Commission, Annual Report"
+    },
+    {
+        "stateName": "Washington LLC",
+        "stateFee": "$180",
+        "annualFee": "$60",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "WA Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "West Virginia LLC",
+        "stateFee": "$25",
+        "annualFee": "$25",
+        "annualFeeDueDate": "Annual, July 1",
+        "stateMoreInfo": "WV Secretary of State, Annual Report"
+    },
+    {
+        "stateName": "Wisconsin LLC",
+        "stateFee": "$130",
+        "annualFee": "$25",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "WI Department of Financial Institutions, Annual Report"
+    },
+    {
+        "stateName": "Wyoming LLC",
+        "stateFee": "$50",
+        "annualFee": "$0",
+        "annualFeeDueDate": "Annual, anniversary month",
+        "stateMoreInfo": "WY Secretary of State, Annual Report"
+    }
+]
